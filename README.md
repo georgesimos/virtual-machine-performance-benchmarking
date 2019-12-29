@@ -178,8 +178,8 @@ benchmark::run();
 - Για το πεδίο μέτρησης CPU, έτρεξαν 2 τεστ απο 3 επαναλήψεις: ένα για την φάση της συμπίεσης και ενα για την αποσυμπίεσην με την χρήση του Gzip.
 - Για το πεδίο μέτρησης Μεικτό, έτρεξαν 2 τεστ από 3 επαναλήψεις. Το πρώτο για τα αποτελέσματα του apacheBench και το δεύτερο για του PHPBench. Για το κάθε τεστ δημιουργήθηκε ένα γράφημα, το οποίο προέκυψε από την κάθε μέτρηση.
 
-<img src="https://github.com/georgesimos/readme-assets/blob/master/Virtual-Machine-Performance-Benchmarking/graph1.png" />
-<img src="https://github.com/georgesimos/readme-assets/blob/master/Virtual-Machine-Performance-Benchmarking/graph2.png" />
+<img src="https://github.com/georgesimos/readme-assets/blob/master/virtual-machine-performance-benchmarking /graph1.png" />
+<img src="https://github.com/georgesimos/readme-assets/blob/master/virtual-machine-performance-benchmarking /graph2.png" />
 
 Fig. 1 Στις μετρήσεις του Gzip Compress παρατηρούμε ότι στο Large μηχανήμα μειώνεται αισθητά ο χρόνος συμπίεσης. Τα labels Large, Medium αναφέρονται στην εικονική μηχανή και τα fast, default, best στο εύρος συμπίεσης.
 
