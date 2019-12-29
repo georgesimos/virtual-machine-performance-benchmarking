@@ -88,10 +88,11 @@ do
 done
 ```
 
-PHPBench
+<details><summary>PHPBench</summary>
+<p>
 
-```sh
-see http://www.php-benchmark-script.com/
+```php
+# see http://www.php-benchmark-script.com/
 <?php
 
 class benchmark {
@@ -169,8 +170,10 @@ benchmark::run();
 
 
 ?>
-
 ```
+
+</p>
+</details>
 
 ### αποτελέσματα των μετρήσεων
 
