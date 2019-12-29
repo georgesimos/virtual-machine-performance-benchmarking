@@ -208,7 +208,10 @@ Fig. 5 Όπως μπορούμε να παρατηρήσουμε, στις με�
 # Αναφορές
 
 1. ~Okeanos IAAS. (n.d.). (2019). [online] Διαθέσιμο: https://okeanos.grnet.gr/home/
-2. George Simos. (2019). Gzip script.[online] Διαθέσιμο: https://github.com/georgesimos/
+2. George Simos. (2019). Gzip script.[online] Διαθέσιμο: https://github.com/georgesimos/virtual-machine-performance-benchmarking/blob/master/Benchmarks%20scripts/GzipBench.sh
 3. ApacheBench. (2019), [online] Διαθέσιμο: https://httpd.apache.org/docs/2.4/programs/ab.html
-4. George Simos. (2019). ApacheBench script. [online] Διαθέσιμο: https://github.com/georgesimos/
+4. George Simos. (2019). ApacheBench script. [online] Διαθέσιμο: https://github.com/georgesimos/virtual-machine-performance-benchmarking/blob/master/Benchmarks%20scripts/ApacheBench.sh
 5. Alessandro Torrisi (2012). PHP performance benchmark script. [online] Διαθέσιμο: http://www.php-benchmark-script.com/
+6. George Simos. (2019). Gzip results. [online] Διαθέσιμο: https://github.com/georgesimos/virtual-machine-performance-benchmarking/blob/master/Benchmarks%20results/GzipBench.xlsx
+7. George Simos. (2019). ApacheBench results. [online] https://github.com/georgesimos/virtual-machine-performance-benchmarking/blob/master/Benchmarks%20results/ApacheBench.xlsx
+8. George Simos. (2019). Php Results. [online] Διαθέσιμο: https://github.com/georgesimos/virtual-machine-performance-benchmarking/blob/master/Benchmarks%20results/PHPBench.xlsx
